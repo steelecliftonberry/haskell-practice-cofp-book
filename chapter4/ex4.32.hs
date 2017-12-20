@@ -1,6 +1,5 @@
 import Test.QuickCheck
 
--- Using Euclid's algorithm for GCD:
 twoToThePower :: Integral a => a -> a
 twoToThePower 0 = 1
 twoToThePower n
